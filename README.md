@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Khushi Chaudhary</h1>
-<h3 align="center">Competitive Programmer || Android Developer</h3>
+<h3 align="center">Software Developer || Web Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
